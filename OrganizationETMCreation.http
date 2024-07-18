@@ -1,0 +1,6 @@
+@OrganizationETMCreation_HostAddress = http://localhost:5012
+
+GET {{OrganizationETMCreation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
